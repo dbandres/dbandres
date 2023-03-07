@@ -4,7 +4,7 @@
 <img align="center" alt="Coding" width="1000" height="500" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 ## Sobre Mi
-<p>Tengo 29 años, soy de la ciudad de Posadas, Misiones. Amante de la Musica y la Tecnologia. Programador desde hace al menos 2 años. Me gusta asumir nuevos desafios que me den mas experiencia y lleven a aprender un poco mas de esta hermosa profesion</p>
+<p>Tengo 29 años, soy de la ciudad de Posadas, Misiones. Amante de la Musica y la Tecnologia. Programador desde 2020 y seguimos. Me gusta asumir nuevos desafios que me den mas experiencia y lleven a aprender un poco mas de esta hermosa profesion</p>
 
 
 
