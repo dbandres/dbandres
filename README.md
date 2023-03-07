@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+```js
+const sobreMi = {
+   pronouns: "he" | "him",
+   code: [Javascript, C, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+         css: ["Bootstrap", "Ant Design"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+      },
+      databases: ["MongoDB", "mySQL", "PostgresSQL"],
+   },
+};
+
+```
+
+
 <!--
 **dbandres/dbandres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
