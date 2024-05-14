@@ -4,23 +4,23 @@
 <img align="center" alt="Coding" width="1000" height="500" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 <h2 align="center">Sobre mi</h2>
-<p>Tengo 29 años, soy de la ciudad de Posadas, Misiones. Amante de la Música y la Tecnología. Programador desde el 2020 y seguimos. Me gusta asumir nuevos desafíos que me aporten más experiencia y me lleven a aprender un poco más de esta hermosa profesión.</p>
+<p>Soy de la ciudad de Posadas, Misiones. Amante de la Música y la Tecnología. Programador desde el 2020 y seguimos. Me gusta asumir nuevos desafíos que me aporten más experiencia y me lleven a aprender un poco más de esta hermosa profesión.</p>
 
 
 
 ```js
 const aboutMeInCode = {
    pronouns: "he" | "him",
-   code: [Javascript, C, HTML, CSS],
+   code: [Javascript, C, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Ant Design"]
+         js: ["React", "Redux", "React-Native"],
+         css: ["Bootstrap", "Ant Design", "TailwindCss"]
       },
       backEnd: {
          js: ["Node", "Express"],
       },
-      databases: ["MongoDB", "mySQL", "PostgresSQL"],
+      databases: ["MongoDB", "mySQL", "PostgresSQL", "SQLServer"],
    },
 };
 
