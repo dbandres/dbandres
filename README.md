@@ -33,43 +33,97 @@ const aboutMeInCode = {
 ```
 
 <h2 align="center">Lenguajes & Herramientas</h2>
+
+<h3 align="center">Front-End</h3>
 <p align="center"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-native" width="40" height="40"/> </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="center">Mobile</h3>
+<p align="center"> 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-native" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="center">Back-End</h3>
+<p align="center"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="center">Bases de Datos</h3>
+<p align="center"> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="center">DevOps / Otros</h3>
+<p align="center"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
 <h2 align="center">Proyectos 🖥️👨‍💻</h2>
-<h3>Museo Patagonico de Ciencias Naturales<h3/>
-<p>Para el proyecto final del bootcamp de Henry planteamos un Web para controlar y automatizar las actividades y los eventos del museo. Para lograr este objetivo aplicamos las herramientas y los conocimientos aprendidos en la cursada del bootcamp.</p>
-<p>La pagina cuenta con las siguientes funcionalidades:<p/>
-   
-   <p>- 👨‍💻 Home y Nav Bar con acceso a toda la web.<p/>
-   <p>- 🖥️ Botones de Registro e Ingresar.<p/>
-   <p>- 💻 Carrito de compras de tickets para el acceso a los eventos.<p/>
-   <p>- 👨‍💻 Diferentes Dashboard para los diferentes roles dentro de la web.<p/>
-   <p>- 🕵️ Rutas proteguidas segun el rol del Usuario.<p/>
-   <p>- 📧 Envio de E-mails automaticos.<p/>
-   <p>- 📲 Adaptable a cualquier pantalla.<p/>
-   
-   <h4><a href="https://pf-museo-front-end-pf09henry.vercel.app/" target="blank"><img align="center">Mira la paguina aca! </a></h4>
-   
-<img align="center" alt="Coding" width="1000" height="500" src="https://user-images.githubusercontent.com/73863384/223559638-70c21663-5916-44f2-bee0-34d4585041b2.png">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; max-width: 1000px; margin: 0 auto;">
+
+  <!-- CCU -->
+  <div style="flex: 1 1 45%; min-width: 300px; max-width: 480px; background: #1a1b27; border: 1px solid #2d2e3e; border-radius: 12px; padding: 20px; text-align: left;">
+    <h3 style="margin: 0 0 8px 0; color: #58a6ff;">📱 CCU — Ventas y Distribución</h3>
+    <p style="font-size: 14px; color: #8b949e; margin: 0 0 12px 0;">App mobile de gestión de ventas, pedidos, cobranzas y distribución. Offline-first, GPS y versión web para operadores.</p>
+    <p style="margin: 0;">
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">React Native</span>
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">TypeScript</span>
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">Redux Toolkit</span>
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9;">WatermelonDB</span>
+    </p>
+  </div>
+
+  <!-- ABC Logística -->
+  <div style="flex: 1 1 45%; min-width: 300px; max-width: 480px; background: #1a1b27; border: 1px solid #2d2e3e; border-radius: 12px; padding: 20px; text-align: left;">
+    <h3 style="margin: 0 0 8px 0; color: #58a6ff;">🚛 ABC Logística — Transporte</h3>
+    <p style="font-size: 14px; color: #8b949e; margin: 0 0 12px 0;">Plataforma end-to-end para gestión logística. Backend en Go, app mobile multiplataforma, tracking de viajes.</p>
+    <p style="margin: 0;">
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">Go</span>
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">React Native</span>
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">TypeScript</span>
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9;">REST APIs</span>
+    </p>
+  </div>
+
+  <!-- SlashStudio -->
+  <div style="flex: 1 1 45%; min-width: 300px; max-width: 480px; background: #1a1b27; border: 1px solid #2d2e3e; border-radius: 12px; padding: 20px; text-align: left;">
+    <h3 style="margin: 0 0 8px 0; color: #58a6ff;">📊 SlashStudio — Dashboards</h3>
+    <p style="font-size: 14px; color: #8b949e; margin: 0 0 12px 0;">Dashboards administrativos y herramientas de gestión. Optimización para +35.000 usuarios activos.</p>
+    <p style="margin: 0;">
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">React</span>
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">Next.js</span>
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">TypeScript</span>
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9;">Node.js</span>
+    </p>
+  </div>
+
+  <!-- 8-Ball -->
+  <div style="flex: 1 1 45%; min-width: 300px; max-width: 480px; background: #1a1b27; border: 1px solid #2d2e3e; border-radius: 12px; padding: 20px; text-align: left;">
+    <h3 style="margin: 0 0 8px 0; color: #58a6ff;">🎓 8-Ball — Turismo Estudiantil</h3>
+    <p style="font-size: 14px; color: #8b949e; margin: 0 0 12px 0;">App mobile con muro social, gestión documental digital y seguimiento de pagos para estudiantes.</p>
+    <p style="margin: 0;">
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">React Native</span>
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">APIs REST</span>
+      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9;">GPS</span>
+    </p>
+  </div>
+
+</div>
 
 <h2 align="center">Contacto</h2>
 <p align="center">
