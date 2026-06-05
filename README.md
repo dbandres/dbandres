@@ -72,10 +72,8 @@ const aboutMeInCode = {
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-<h2 align="center">Proyectos 🖥️👨‍💻</h2>
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; max-width: 1000px; margin: 0 auto;">
-
+<h2 align="center">Proyectos 🖥️👨‍💻</h2>
   <!-- CCU -->
   <div style="flex: 1 1 45%; min-width: 300px; max-width: 480px; background: #1a1b27; border: 1px solid #2d2e3e; border-radius: 12px; padding: 20px; text-align: left;">
     <h3 style="margin: 0 0 8px 0; color: #58a6ff;">📱 CCU — Ventas y Distribución</h3>
