@@ -133,12 +133,9 @@ const aboutMeInCode = {
 <br/>
 <h2 align="center">Contacto</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/dario-balmaceda" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="48" height="48" /></a>
-    
-  <a href="mailto:balmaceda.d265@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="48" height="48" /></a>
-    
-  <a href="https://github.com/dbandres" target="_blank"><img src="https://img.icons8.com/color/48/github.png" alt="GitHub" width="48" height="48" /></a>
-    
-  <a href="https://portfolio2025-two-chi.vercel.app/" target="_blank"><img src="https://img.icons8.com/color/48/internet.png" alt="Portfolio" width="48" height="48" /></a>
+  <a href="https://linkedin.com/in/dario-balmaceda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
+  <a href="mailto:balmaceda.d265@gmail.com"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Email" height="40" width="50" /></a>
+  <a href="https://github.com/dbandres" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="50" /></a>
+  <a href="https://portfolio2025-two-chi.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Portfolio" height="40" width="50" /></a>
 </p>
 
