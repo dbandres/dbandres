@@ -72,56 +72,42 @@ const aboutMeInCode = {
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; max-width: 1000px; margin: 0 auto;">
 <h2 align="center">Proyectos 🖥️👨‍💻</h2>
-  <!-- CCU -->
-  <div style="flex: 1 1 45%; min-width: 300px; max-width: 480px; background: #1a1b27; border: 1px solid #2d2e3e; border-radius: 12px; padding: 20px; text-align: left;">
-    <h3 style="margin: 0 0 8px 0; color: #58a6ff;">📱 CCU — Ventas y Distribución</h3>
-    <p style="font-size: 14px; color: #8b949e; margin: 0 0 12px 0;">App mobile de gestión de ventas, pedidos, cobranzas y distribución. Offline-first, GPS y versión web para operadores.</p>
-    <p style="margin: 0;">
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">React Native</span>
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">TypeScript</span>
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">Redux Toolkit</span>
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9;">WatermelonDB</span>
-    </p>
-  </div>
 
-  <!-- ABC Logística -->
-  <div style="flex: 1 1 45%; min-width: 300px; max-width: 480px; background: #1a1b27; border: 1px solid #2d2e3e; border-radius: 12px; padding: 20px; text-align: left;">
-    <h3 style="margin: 0 0 8px 0; color: #58a6ff;">🚛 ABC Logística — Transporte</h3>
-    <p style="font-size: 14px; color: #8b949e; margin: 0 0 12px 0;">Plataforma end-to-end para gestión logística. Backend en Go, app mobile multiplataforma, tracking de viajes.</p>
-    <p style="margin: 0;">
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">Go</span>
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">React Native</span>
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">TypeScript</span>
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9;">REST APIs</span>
-    </p>
-  </div>
-
-  <!-- SlashStudio -->
-  <div style="flex: 1 1 45%; min-width: 300px; max-width: 480px; background: #1a1b27; border: 1px solid #2d2e3e; border-radius: 12px; padding: 20px; text-align: left;">
-    <h3 style="margin: 0 0 8px 0; color: #58a6ff;">📊 SlashStudio — Dashboards</h3>
-    <p style="font-size: 14px; color: #8b949e; margin: 0 0 12px 0;">Dashboards administrativos y herramientas de gestión. Optimización para +35.000 usuarios activos.</p>
-    <p style="margin: 0;">
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">React</span>
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">Next.js</span>
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">TypeScript</span>
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9;">Node.js</span>
-    </p>
-  </div>
-
-  <!-- 8-Ball -->
-  <div style="flex: 1 1 45%; min-width: 300px; max-width: 480px; background: #1a1b27; border: 1px solid #2d2e3e; border-radius: 12px; padding: 20px; text-align: left;">
-    <h3 style="margin: 0 0 8px 0; color: #58a6ff;">🎓 8-Ball — Turismo Estudiantil</h3>
-    <p style="font-size: 14px; color: #8b949e; margin: 0 0 12px 0;">App mobile con muro social, gestión documental digital y seguimiento de pagos para estudiantes.</p>
-    <p style="margin: 0;">
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">React Native</span>
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9; margin-right: 6px;">APIs REST</span>
-      <span style="background: #2d2e3e; padding: 4px 10px; border-radius: 20px; font-size: 12px; color: #c9d1d9;">GPS</span>
-    </p>
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 CCU — Ventas y Distribución</h3>
+      <p>App mobile de gestión de ventas, pedidos, cobranzas y distribución. Offline-first, GPS y versión web para operadores.</p>
+      <p>
+        <code>React Native</code> <code>TypeScript</code> <code>Redux Toolkit</code> <code>WatermelonDB</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚛 ABC Logística — Transporte</h3>
+      <p>Plataforma end-to-end para gestión logística. Backend en Go, app mobile multiplataforma, tracking de viajes.</p>
+      <p>
+        <code>Go</code> <code>React Native</code> <code>TypeScript</code> <code>REST APIs</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 SlashStudio — Dashboards</h3>
+      <p>Dashboards administrativos y herramientas de gestión. Optimización para +35.000 usuarios activos.</p>
+      <p>
+        <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Node.js</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 8-Ball — Turismo Estudiantil</h3>
+      <p>App mobile con muro social, gestión documental digital y seguimiento de pagos para estudiantes.</p>
+      <p>
+        <code>React Native</code> <code>APIs REST</code> <code>GPS</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">Contacto</h2>
 <p align="center">
